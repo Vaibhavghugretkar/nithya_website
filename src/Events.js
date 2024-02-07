@@ -8,7 +8,7 @@ export default function Events() {
 
       <div className="cardContainer">
         <div className="card" >
-          <img src="../nithy_pic3.jpeg" class="card-img-top" alt="..." />
+          <img src="./nithy_pic3.jpeg" class="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
